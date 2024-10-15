@@ -1,11 +1,3 @@
-#file ansible 
-playbook.txt
-
-#Instalasi package
-
-apt install apache2
-
-apt install mariadb-server
 
 apt install php php-mysqli php-mbstring
 
